@@ -3,3 +3,5 @@
 /ImageAnnotator.classoutput
 output/*
 /ImageAnnotator.class
+.classpath
+.project
