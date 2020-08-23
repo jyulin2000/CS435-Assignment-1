@@ -4,7 +4,7 @@ https://github.com/jyulin2000/CS435-Assignment-1
 How to run:
 
 
-(1) Compile project with the following command (if not on linux, do "javac Main.java" instead:
+(1) Compile project with the following command (if not on linux, do "javac Main.java" instead):
 
 
 make
