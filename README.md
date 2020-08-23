@@ -10,8 +10,8 @@ How to run:
 make
 
 
-(2) Run the main class, providing the name of the input directory as an argument:
+(2) Run the main class, providing the relative path of the input directory as an argument:
 
 
-java Main Programming-Assignment-Data
+java Main Programming-Assignment-Data/
 
